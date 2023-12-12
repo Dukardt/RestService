@@ -1,6 +1,6 @@
 package ru.netology.services;
 
-public class restService {
+public class RestService {
     public int calculate(int income, int expenses, int threshold) {
         int balance = 0;
         int count = 0;
